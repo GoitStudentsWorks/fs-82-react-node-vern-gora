@@ -11,7 +11,7 @@ const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
     <Provider store={store}>
-      <BrowserRouter basename='/PowerPulse'>
+      <BrowserRouter basename='/fs-82-react-node-vern-gora'>
         <PersistGate loading={null} persistor={persistor}>
           <App />
         </PersistGate>
