@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/fs-82-react-node-vern-gora/static/css/main.6b111cac.css",
-    "main.js": "/fs-82-react-node-vern-gora/static/js/main.1ec63488.js",
+    "main.js": "/fs-82-react-node-vern-gora/static/js/main.e46f0d57.js",
     "static/css/760.057f2fad.chunk.css": "/fs-82-react-node-vern-gora/static/css/760.057f2fad.chunk.css",
     "static/js/760.55a23813.chunk.js": "/fs-82-react-node-vern-gora/static/js/760.55a23813.chunk.js",
     "static/css/546.21b80247.chunk.css": "/fs-82-react-node-vern-gora/static/css/546.21b80247.chunk.css",
@@ -42,7 +42,7 @@
     "index.html": "/fs-82-react-node-vern-gora/index.html",
     "static/media/Line.svg": "/fs-82-react-node-vern-gora/static/media/Line.56c98a07893009bfdfbb2f9613a038d4.svg",
     "main.6b111cac.css.map": "/fs-82-react-node-vern-gora/static/css/main.6b111cac.css.map",
-    "main.1ec63488.js.map": "/fs-82-react-node-vern-gora/static/js/main.1ec63488.js.map",
+    "main.e46f0d57.js.map": "/fs-82-react-node-vern-gora/static/js/main.e46f0d57.js.map",
     "760.057f2fad.chunk.css.map": "/fs-82-react-node-vern-gora/static/css/760.057f2fad.chunk.css.map",
     "760.55a23813.chunk.js.map": "/fs-82-react-node-vern-gora/static/js/760.55a23813.chunk.js.map",
     "546.21b80247.chunk.css.map": "/fs-82-react-node-vern-gora/static/css/546.21b80247.chunk.css.map",
@@ -66,6 +66,6 @@
   },
   "entrypoints": [
     "static/css/main.6b111cac.css",
-    "static/js/main.1ec63488.js"
+    "static/js/main.e46f0d57.js"
   ]
 }
